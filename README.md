@@ -1,4 +1,4 @@
-# react-calculator 🥁
+# react-calculator 🔢
 
 ## Overview 📄
 This is a simple basic calculator using React.js. It supports formula based calculations. The app is responsive on all devices.
